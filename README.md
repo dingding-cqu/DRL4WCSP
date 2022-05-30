@@ -10,7 +10,6 @@
 - `drl_boosted_algo` contains the implementation of our DRL-boosted algorithms
 - `core` contains the core data structures to run the simulation
 - `entry` contains the entry point of each algorithm
-- `heuristics` contains the implementation of  GAT-PCM-boosted algorithms
 - `pretrain` contains the implementation of pretraining stage
 
 # How to run the code
